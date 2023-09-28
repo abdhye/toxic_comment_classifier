@@ -1,3 +1,13 @@
+# Toxic Comment Classifier
+Created a toxic comment classifier by training data on ML algorithms.
+
+An extract from the code:
+![tccPy(1)](https://github.com/abdhye/toxic_comment_classifier/assets/56081405/abf4dbaa-09ef-44f1-8ba7-41d919d464f3)
+
+![tccPy(3)](https://github.com/abdhye/toxic_comment_classifier/assets/56081405/fd15094e-fd82-4773-a5e8-54792d0d17e3)
+
+The plot displays the F1 scores of machine learning models using TF-IDF.
+
 1. Clone the repo to your local directory 
 2. Create a new environment through Anaconda Prompt
 3. Enter 'conda env create -f toxic_test.yml'
